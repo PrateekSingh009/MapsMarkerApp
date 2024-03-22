@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maps Marker App</string>
+    <integer name="gms_version">24</integer>
+    <string name="marker_name">Name : %1$s</string>
+    <string name="marker_age">Age : %1$s</string>
+    <string name="marker_lat">Latitude : %1$s</string>
+    <string name="marker_long">Longitude : %1$s</string>
+    <string name="delete">Are you Sure Want to Delete this Marker?</string>
+</resources>
